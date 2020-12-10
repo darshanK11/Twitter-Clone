@@ -42,7 +42,7 @@ The output is printed in the terminal in the following way:
   The table below shows the time taken for the tasks performed. The first column indicated the number of users that were given as input during the simulation.
   
   | Number of Users | Tweeting | Re-tweeting | Printing Home Timeline (of all users) | # search queries | @ search queries | Connection/Disconnection Simulation |
-  | --- | --- |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
   | 10 | 23.5 | 7.5 | 1023.9 | 1036.96 | 1032.96 | 3006.5 |
   | 100 | 146.47 | 134.29 | 10328.00 | 1036.464 | 1034.106 | 8041.62 |
   | 500 | 2172.57 | 2722.05 | 51459.11 | 1039.72 | 1041.90 | 56333.18 |
